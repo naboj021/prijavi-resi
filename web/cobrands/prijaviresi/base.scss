@@ -1,0 +1,15 @@
+@import "../sass/h5bp";
+@import "./_colours";
+@import "../sass/mixins";
+
+@import "../sass/base";
+
+#site-logo {
+    width: 162px;
+    height: 56px;
+    padding: 0.5em 0;
+    background-image: url("/cobrands/prijaviresi/images/osnova-boja.png");
+    background-position: 0 50%;
+    background-repeat: no-repeat;
+    background-size: 162px 56px;
+}
